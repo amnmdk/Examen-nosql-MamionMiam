@@ -1,9 +1,8 @@
 # Rapport de projet NoSQL — Mamion Miam
 
-**Groupe :** 3 étudiants — B3 IABD — ESGI
-**Matière :** Bases de données NoSQL
-**Professeur :** R. Carlier
-**Date :** Avril 2026
+**Groupe 9 :** 3 IABD — ESGI
+**Matière :** NoSQL
+
 
 **Membres du groupe et répartition :**
 
@@ -469,4 +468,4 @@ Le pipeline complet a été exécuté avec succès et répond aux **20 questions
 - **Parrainage** : un réseau dense, très féminin, stimulé par certaines grandes entreprises locales, avec une chaîne de parrainage atteignant 13 liens.
 - **Magasins** : le point de vente de La Garenne-Colombes a la zone de chalandise la plus dense (225 abonnés à moins de 4 km).
 
-Le choix d'utiliser **MongoDB pour les analyses tabulaires** et **Neo4J pour les analyses relationnelles** s'est révélé pertinent : chaque question a été traitée avec l'outil le plus adapté, sans complexité superflue.
+
